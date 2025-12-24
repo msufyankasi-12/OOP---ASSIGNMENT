@@ -173,15 +173,15 @@ public class Main {
 
         // ========== Two Day Package ==========
         TwoDayPackage tdp = new TwoDayPackage(
-                "Talha", "Street 1", "Quetta", "Balochistan", "54000",
-                "Hameer", "Street 5", "Karachi", "Sindh", "75000",
+                "Sufyan", "Street 1", "Quetta", "Balochistan", "54000",
+                "Hassan", "Street 5", "Karachi", "Sindh", "75000",
                 10, 2.0, 50
         );
 
         // ========== Overnight Package ==========
         OvernightPackage onp = new OvernightPackage(
-                "Talha", "Street 1", "Quetta", "Balochistan", "54000",
-                "Hameer", "Street 5", "Karachi", "Sindh", "75000",
+                "Sufyan", "Street 1", "Quetta", "Balochistan", "54000",
+                "Hassan", "Street 5", "Karachi", "Sindh", "75000",
                 10, 2.0, 1.5
         );
 
